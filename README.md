@@ -1,4 +1,8 @@
 # -1.2-ETL-ELT---DBT-Introduction
 
-import dans work bench ok : 
-![workbench_success_view](https://github.com/user-attachments/assets/941bb0e7-d7cf-4a35-badd-dfec5fc3462d)
+
+creation d'une branche pour la quete : 1.3 ETL/ELT - DBT models
+
+capture execution dbt run 
+![image](https://github.com/user-attachments/assets/d26af70d-2907-44ca-a0ee-2a824a4f0f11)
+
